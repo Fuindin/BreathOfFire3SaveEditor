@@ -1,0 +1,16 @@
+# Visual Studio / .NET build artifacts
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# User-specific project settings
+*.user
+
+# Build logs
+*.binlog
+
+# Save-state backups produced by the editor
+*.editor.bak
+
+# Output of build.cmd
+build.log
